@@ -1,0 +1,1 @@
+To use need to install chromedriver in "C:\webdrivers\chromedriver.exe" or type path to driver in tools/driver_init.py, all data save in sip.txt as %sip_number%:%password%:%number_of_flat%
